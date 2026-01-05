@@ -9,7 +9,7 @@ Complete the function printNumber which takes an integer input from the user and
 class Solution:
     def printNumber(self):
 
-        number = int(input("enter number"))
+        number = int(input())
 
         print(number)
 
