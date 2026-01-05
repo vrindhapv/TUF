@@ -13,5 +13,5 @@ class Solution:
 
         print(number)
 
-    Solution_instance=Solution()
-    Solution_instance.printNumber()
+solution_instance = Solution()
+solution_instance.printNumber()
