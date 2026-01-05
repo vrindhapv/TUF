@@ -28,4 +28,4 @@ class Solution:
 
 solution_instance = Solution()
 
-solution_instance.studentGrade(87)
+solution_instance.studentGrade(98)
